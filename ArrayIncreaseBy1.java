@@ -23,6 +23,7 @@ class ArrayIncreaseBy1 {
         for (int i = 0; i < n; i++) {
             time = time + (max - A[i]);
         }
-        System.out.println("Minimum time required: " + time + " seconds");
+        System.out.println("Minimum time : " + time + " seconds");
     }
 }
+
